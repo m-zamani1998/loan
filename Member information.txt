@@ -128,7 +128,7 @@
     "account_balance": 9000000,
     "installment_count": 10,
     "installment_amount": 3500000
-  }
+  },
   {
     "id": 11,
     "full_name": "عاطفه نیک‌فر",
